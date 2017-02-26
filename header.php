@@ -59,6 +59,7 @@
 					 tel. +1 (604) 771-9166
 				</div>
 				<div style="font-size:1.1em;margin:12px 0 0 0;text-align:right;">
+					 tel. +1 (310) 800-6666
 				</div>
 				<div class="clear"></div>
 			</div>
